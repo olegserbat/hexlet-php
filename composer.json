@@ -1,0 +1,12 @@
+{
+    "name": "oleg/hexlet-project",
+    "description": "first project",
+    "require": {
+        "squizlabs/php_codesniffer": "^3.7"
+    },
+    "authors": [
+        {
+            "name": "Ushkevich Oleg"
+        }
+    ]
+}
