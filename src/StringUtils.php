@@ -10,3 +10,4 @@ function capitalize(string $text)
     $restSubstring = substr($text, 1);
     return "{$firstSymbol}{$restSubstring}";
 }
+

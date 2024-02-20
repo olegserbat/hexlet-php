@@ -4,6 +4,8 @@
     "autoload": {
         "files": [
             "src/StringUtils.php",
+            "test/StringUtilsTest.php",
+            "src/Take.php",
             "test/StringUtilsTest.php"
         ]
     },
